@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ellisosborn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Based_in-UK-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in the UK"/>
 <img src="https://komarev.com/ghpvc/?username=EllisKOsborn&style=for-the-badge&color=203a43&label=PROFILE+VIEWS" alt="Profile views"/>
 
