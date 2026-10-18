@@ -35,7 +35,7 @@ ellis:
 | Project | What it is |
 |---|---|
 | 🛒 **Own ecommerce brand** | Test-led product validation: a scoring model for product ideas, small ad budgets, pre-set kill/scale rules. Niche-agnostic, execution-first. |
-| 📈 **Google Ads rebuild** | Restructuring a legacy account for a UK, high-SKU retailer. Hagakure-style Search, Shopping tiered into **Heroes / Sidekicks / Villains / Zombies**, Merchant Center feed clean-up, built around stock-outs. |
+| 📈 **Google Ads rebuilds** | Turning messy legacy accounts into clean, scalable structures: consolidated Search, performance-tiered Shopping (**Heroes / Sidekicks / Villains / Zombies**) and Merchant Center feed clean-up. |
 | ⚙️ **Marketing automation** | n8n running in Docker Compose to take the repetitive bits out of ecommerce and ad operations. |
 | 🧠 **Offline-first knowledge vault** | An Obsidian vault that syncs to my own server and stays useful with no internet: reference guides, checklists and an offline library. |
 | 🤖 **AI agents** | Experimenting with Claude skills, project-based "bots" and self-hosted agents. |
@@ -50,7 +50,7 @@ My old gaming PC, reborn as a headless Ubuntu server. The goal: own my photos, r
 <summary><b>Hardware</b></summary>
 <br/>
 
-`Ryzen 7 2700X` · `64GB DDR4` · `RX 5700 XT (8GB)` · `Ubuntu Server 26.04 LTS` · NVMe + HDD split (app data on NVMe, backups on HDD)
+`Ryzen 7 2700X` · `64GB DDR4` · `RX 5700 XT (8GB)` · `Ubuntu Server LTS`
 
 </details>
 
@@ -62,9 +62,9 @@ My old gaming PC, reborn as a headless Ubuntu server. The goal: own my photos, r
 | 📝 **CouchDB + Obsidian LiveSync** | Self-hosted note sync across Mac, Windows and phone. |
 | 🔖 **Linkding** | Lightweight bookmark manager. |
 | 🧭 **Glance** | Homepage dashboard: service tiles, RSS, weather, server stats, markets. |
-| 📊 **Netdata · WUD · Dozzle** | Monitoring, container update alerts and logs. |
-| 🔐 **Tailscale** | Secure access from anywhere, no open ports. |
-| 💾 **Backups** | Daily cron job to a separate drive with 7-day rotation. |
+| 📊 **Monitoring** | Server health and container update alerts. |
+| 🔐 **Tailscale** | Private access from my own devices only. Nothing exposed to the internet. |
+| 💾 **Backups** | Automated and versioned. |
 
 **Up next:** Navidrome (goodbye Spotify), Uptime Kuma, and a self-hosted AI agent.
 
@@ -112,7 +112,7 @@ My old gaming PC, reborn as a headless Ubuntu server. The goal: own my photos, r
 
 ### 📊 Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EllisKOsborn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EllisKOsborn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllisKOsborn&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=EllisKOsborn&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
