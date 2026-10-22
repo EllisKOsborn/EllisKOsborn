@@ -64,12 +64,6 @@ Not a developer. Building anyway. I learn by doing, with AI as a pair-programmer
 
 The homelab. In RuneScape, the bank is where everything you own lives. Mine keeps my photos, runs AI locally and holds a library that works without the internet.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/the-bank-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/the-bank-light.svg">
-  <img src="assets/the-bank-light.svg" width="100%" alt="Equipped: one retired gaming PC, now a headless Ubuntu server. Ryzen 7 2700X, 64 GB memory, RX 5700 XT. Private access over Tailscale only; nothing exposed to the internet.">
-</picture>
-
 Every service I deploy gets its own written guide, including what broke and how I fixed it.
 
 <h3>
