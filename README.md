@@ -62,7 +62,13 @@ Not a developer. Building anyway. I learn by doing, with AI as a pair-programmer
 </picture>
 </h3>
 
-The homelab. In RuneScape, the bank is where everything you own lives. Mine keeps my photos, runs AI locally and holds a library that works without the internet.
+The homelab. In RuneScape, the bank is where everything you own lives. Mine is an old gaming PC, reborn as a headless server, that took back everything I used to rent.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/the-bank-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/the-bank-light.svg">
+  <img src="assets/the-bank-light.svg" width="100%" alt="Bank tabs: what the homelab does. Memories: 48,000 photos and videos, off Google. Local AI: models on my own GPU, private search. Agents: skills, scheduled jobs and a workspace. Library: Wikipedia, courses and maps, offline. Music: my own streaming. Notes: synced on every device through my own server. Watchtower: alerts to my phone when anything drops. Vault: automated, versioned backups. Private access over Tailscale only; nothing exposed to the internet.">
+</picture>
 
 Every service I deploy gets its own written guide, including what broke and how I fixed it.
 
