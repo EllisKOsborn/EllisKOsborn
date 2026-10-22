@@ -51,8 +51,8 @@ Not a developer. Building anyway. I learn by doing, with AI as a pair-programmer
 **Completed**
 
 - **Forever Codex.** A companion dashboard for WoW: Forever, built while I wait for it. Sim DPS tier lists, class and race comparisons, spec guides, gear, raids and levelling. It refreshes daily and runs its own data-consistency checks.
-- **Left Google Photos.** About 48,000 photos and videos out of Takeout and into Immich.
-- **Cleared the "up next" list.** Navidrome, Uptime Kuma, WUD, SearXNG, Odysseus and Hermes Agent are all in the stack now.
+- **Left Google Photos.** About 48,000 photos and videos out of Takeout and onto my own server.
+- **Cleared the "up next" list.** Everything on it is built and running.
 
 <h3>
 <picture>
@@ -71,31 +71,6 @@ The homelab. In RuneScape, the bank is where everything you own lives. Mine keep
 </picture>
 
 Every service I deploy gets its own written guide, including what broke and how I fixed it.
-
-<details>
-<summary><b>Open the bank: the full stack</b></summary>
-<br>
-
-| Service | What it does |
-|---|---|
-| **Immich** | Replaced Google Photos. About 48,000 photos and videos migrated out of Takeout. |
-| **Navidrome** | My own Spotify. |
-| **Ollama + Open WebUI** | Local LLMs on the AMD GPU via Vulkan. |
-| **SearXNG** | Private web search for the local AI, through Open WebUI. |
-| **Odysseus** | A self-hosted AI workspace. |
-| **Hermes Agent** | An autonomous agent with skills and scheduled jobs. |
-| **n8n** | Marketing automation, in Docker Compose. |
-| **Project NOMAD** | The offline library: Kiwix, Kolibri and offline maps. |
-| **CouchDB + Obsidian LiveSync** | Notes synced across every device, through my own server. |
-| **Linkding** | Bookmarks. |
-| **Glance** | The homepage dashboard. |
-| **Uptime Kuma** | Monitoring, with alerts to my phone. |
-| **WUD** | Tells me when a container has an update. |
-| **Monitoring** | Server health, watched. |
-| **Backups** | Automated and versioned. |
-| **Tailscale** | Private access from my own devices. Nothing exposed to the internet. |
-
-</details>
 
 <h3>
 <picture>
